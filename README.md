@@ -1,9 +1,6 @@
 ### Hi👋
 
 <!--### Student who learns coding.-->
-####
-- 🔭 I’m currently working on . . .
-- 🌱 I’m currently learning . . .
 
 [![minzzung's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=minzzung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minzzung)
 
