@@ -5,12 +5,12 @@
 - 🔭 I’m currently working on . . .
 - 🌱 I’m currently learning . . .
 
-[![minzzung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minzzung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minzzung)
+<!--[![minzzung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minzzung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minzzung)-->
 
 ![minzzung's github stats](https://github-readme-stats.vercel.app/api?username=minzzung&show_icons=true)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=minzzung)   
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=minzzung)-->   
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://minzzung.github.io/)](https://minzzung.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dullini0205@gmail.com)](mailto:dullini0205@gmail.com)
