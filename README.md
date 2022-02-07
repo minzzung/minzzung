@@ -6,7 +6,7 @@
 ![minzzung's github stats](https://github-readme-stats.vercel.app/api?username=minzzung&show_icons=true)
 
 
-<!--![trophy](https://github-profile-trophy.vercel.app/?username=minzzung)-->
+![trophy](https://github-profile-trophy.vercel.app/?username=minzzung)
 
 
 
